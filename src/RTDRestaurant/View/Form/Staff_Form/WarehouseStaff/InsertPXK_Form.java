@@ -43,7 +43,7 @@ public class InsertPXK_Form extends javax.swing.JPanel {
         txtSearch.setHint("Tìm kiếm Nguyên Liệu . . .");
         jScrollPane1.setVerticalScrollBar(new ScrollBarCustom());
         jScrollPane1.getViewport().setBackground(Color.WHITE);
-        simpleDateFormat = new SimpleDateFormat("dd-MM-YYYY");
+        simpleDateFormat = new SimpleDateFormat("dd-MM-yyyy");
         //Thêm data cho Menu
         initTable();
         initPNK();

@@ -108,7 +108,7 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
 > * **Bước 3:** Thêm tất cả các thư viện cần thiết trong mục src/External_Library.
 > * **Bước 4:** Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là `Doan` và Password là `123`, sau đó chạy toàn bộ file Database.sql.
 > * **Bước 5:** Tiến hành chạy run file src/RTDRestaurant/View/Main_Frame/Main_LoginAndRegister.java để chạy chương trình
->* ***Note:** Xem file hướng dẫn cài đặt dưới đây để hiểu rõ thêm: [File hướng dẫn chi tiết](https://docs.google.com/document/d/10h0v1Bf-x-AGbSoLZw1hegSK2QQK_oClz71aKmKWJ04/edit?usp=sharing)*
+
 
 ## Tài liệu tham khảo
 
